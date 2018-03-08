@@ -4,5 +4,5 @@ This is a course project for CS 543 Computer Vision. It divides the image into t
 Some example output:
 <p align="center">
   <img src="00125v.jpg" width="350"/>
-  <img src="00125v.jpg" width="350"/>
+  <img src="output/00125crop.png" width="350"/>
 </p>
